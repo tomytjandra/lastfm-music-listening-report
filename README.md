@@ -1,5 +1,7 @@
 # PERSONAL MUSIC LISTENING REPORT
 
+> **NOTE**: Access via [nbviewer](https://nbviewer.jupyter.org/github/tomytjandra/lastfm-music-listening-report/blob/master/Personal%20Music%20Listening%20Report.ipynb#Visualization) if the notebook cannot be rendered on Github.
+
 ## About
 In the notebook of this repository, we will analyze my music listening pattern since the beginning of year 2020. The data of my playlist history will be fetched from [Last.fm API](https://www.last.fm/api/). [Last.fm](https://www.last.fm/) is an online music service that lets us stream our favorite music for free while offering great listening, watching, and sharing features. What makes last.fm unique from the other services is their **scrobbling system**. Every time we play a track from other music applications (Spotify, Google Play Music, YouTube Music, etc), the track is added, or scrobbled, to our Last.fm account. This allows us to share our musical tastes, make and receive recommendations from other users, and create custom radio stations.
 
